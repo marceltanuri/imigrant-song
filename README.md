@@ -6,6 +6,9 @@
 
 Todos os escritores, apesar dos perrengues que passaram, são felizes em ter imigrado e consideram terem encontrado aquilo que buscavam para si e suas famílias.
 
+
+https://rpgplayground.com/game/88072
+
 ## Contribua
 
 O jogo está escrito na plataforma rpgplayground.com, o script dos personagens estão todos neste repositório e este está aberto para colaboração. Se você deseja contribuirm faça o fork, escreva teu código e no seu primeiro Pull Request conte-nos um pouco da sua história e se puder deixe o perfil linkedIn também.
