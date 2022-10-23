@@ -2,7 +2,7 @@
 
 ## O jogo
 
-É um jogo Role-playing game (PRG) que representa a jornada de um brasileiro, profissional de TI, que imigra com sua família do Brasil para Portugal em busca de mais qualidade de vida. O jogo, escrito por imigrantes reais, busca descrever principalmente as experiências mais bizarras, as surpresas negativas, e as decepções do imigrante. Embora existam muitas coisas boas que poderiam ser contadas, os escritores preferiram enfatizar os percalços e decepções, a idéia que qualquer um que queira imigrar possa ver o outro lado do sonho através de uma experiência divertida e que nos relembre os jogos RPG da infância.
+É um jogo Role-playing game (RPG) que representa a jornada de um brasileiro, profissional de TI, que imigra com sua família do Brasil para Portugal em busca de mais qualidade de vida. O jogo, escrito por imigrantes reais, busca descrever principalmente as experiências mais bizarras, as surpresas negativas, e as decepções do imigrante. Embora existam muitas coisas boas que poderiam ser contadas, os escritores preferiram enfatizar os percalços e decepções, a idéia que qualquer um que queira imigrar possa ver o outro lado do sonho através de uma experiência divertida e que nos relembre os jogos RPG da infância.
 
 Todos os escritores, apesar dos perrengues que passaram, são felizes em ter imigrado e consideram terem encontrado aquilo que buscavam para si e suas famílias.
 
