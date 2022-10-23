@@ -8,7 +8,7 @@ Todos os escritores, apesar dos perrengues que passaram, são felizes em ter imi
 
 ## Contribua
 
-O jogo está escrito na plataforma rpgplayground.com, o script dos personagens estão todos neste repositório e este está aberto para colaboração. Se você deseja contribuir faça o pedido aqui pelo GitHub se indentificando, contando um pouco da sua história e se puder deixe o perfil linkedIn também.
+O jogo está escrito na plataforma rpgplayground.com, o script dos personagens estão todos neste repositório e este está aberto para colaboração. Se você deseja contribuirm faça o fork, escreva teu código e no seu primeiro Pull Request conte-nos um pouco da sua história e se puder deixe o perfil linkedIn também.
 
 
 ## O código
