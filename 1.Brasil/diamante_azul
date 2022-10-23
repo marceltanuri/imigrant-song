@@ -1,0 +1,4 @@
+if hero has token "proposta"
+    hero says "vou vender isso aqui e comprar tudo em Euro"
+    hero says "Partiu Portugal!!"
+    hero receives token "proposta_aceita"

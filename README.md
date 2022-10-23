@@ -15,5 +15,5 @@ O jogo está escrito na plataforma rpgplayground.com, o script dos personagens e
 
 As fases estão organizadas em pastas, nomeadas com [0-9].[0-9]-[aA-zZ], o prefixo númerico define a sequência das fases, podende haver subníveis como por exemplo 2-Portugal, 2.1-Imobiliária. Onde 2.1-Imobiliária é um cenário dentro da fase 2.Portugal
 
-O roteiro dos personagens estão organizados em arquivos .txt, um arquivo por personagem, e nome do arquivo é igual ao nome do personagem.
+O roteiro dos personagens estão organizados em arquivos, um arquivo por personagem, e nome do arquivo é igual ao nome do personagem.
 A linguagem de programação é simples e está documentada na plataforma https://rpgplayground.com/user-manual/

@@ -1,0 +1,8 @@
+if hero lacks token "proposta"
+    hero says "Bom dia amor."
+    esposa says "Bom dia nada, esses vizinhos ouvindo funk desde cedo, to cansada desse povo."
+if hero has token "proposta"
+    hero says "Acho que tenho uma solução para nossos problemas"
+    esposa says "Sério? como?"
+    hero says "Consegui um emprego na Europa, na minha área, vou ganhar bem!"
+    esposa says "Uaaaaaul"
