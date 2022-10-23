@@ -1,4 +1,4 @@
-# imigrant-song
+# immigrant-song
 
 ## O jogo
 
